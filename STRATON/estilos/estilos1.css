@@ -1,0 +1,105 @@
+p{
+font-family: Arial;
+font-size:20;
+}
+
+h1{
+font-family: Chaparral Pro Light;
+font-size:40;
+}
+
+p1{
+font-family:Felix Titling;
+font-size:35;
+}
+
+section{
+background: #ffe819;
+font-family: Adobe Heiti Std R;
+font-size:25;
+}
+
+section2{
+background: #fffffff;
+font-family: Arial;
+font-size:26;
+}
+
+section3{
+background:#ecff17;
+font-family: Arial;
+font-size:26;
+}
+
+section4{
+background:#ffffff;
+font-family: Arial;
+font-size:26;
+}
+
+
+body1{
+background: #ffffff;
+font-family: Arial;
+font-size:20;
+}
+
+
+center{
+background: #7496ad;
+font-family: Arial;
+font-size:20;
+}
+
+center1{
+background: #61994b;
+font-size:40;
+}
+
+center2{
+font-size:20;
+content: flex;
+}
+
+
+.btn{
+display: inline-block;
+width: 50px;
+font-family: arial;
+font-weight:700;
+background-color:#16a083;
+border-radius: 1000px;
+padding: 15px 100px 15px 15px;
+color: #fff;
+text-decoration: none;
+}
+
+.btn1{
+display: inline-block;
+width: 50px;
+font-family: arial;
+font-weight:700;
+background-color:#16a083;
+border-radius: 10px;
+padding: 15px 55px 15px 5px;
+color: #fff;
+text-decoration: none;
+}
+
+.btn2{
+display: inline-block;
+width: 50px;
+font-family: arial;
+font-weight:700;
+background-color:#16a083;
+border-radius: 10px;
+padding: 15px 40px 15px 15px;
+color: #fff;
+text-decoration: none;
+}
+
+h3{
+font-family: Chaparral Pro Light;
+font-size:40;
+}
+

@@ -1,0 +1,26 @@
+.flex-center{
+display: flex;
+justify-content:center;
+}
+
+#catalogo{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+width: 70%;
+margin: 85px;
+grid-gap: 30px;
+}
+
+#catalogo img{
+width: 90%;
+transition: all 300ms;
+position : relative;
+}
+
+#catalogo img:hover{
+transform: scale(1.15);
+}
+
+#logo{
+width: 15%;
+}

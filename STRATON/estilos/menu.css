@@ -1,0 +1,30 @@
+header {
+  background: ##000000;
+  width: 200%;
+  position: fixed;
+  z-index: 100;
+}
+
+nav {
+  float: center;
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden; 
+}
+
+nav ul li {
+  float: left;
+  font-family:Adobe Fan Heiti Std Black;
+  font-size: 16px;
+}
+nav ul li a {
+  display: block;
+  padding: 15px;
+  color: #000000;
+  text-decoration: none;
+}
+nav ul li:hover {
+  background:#75f09c;
+}
